@@ -1,0 +1,17 @@
+Resumen de hallazgos:
+
+Distribución de salarios: Se observa una distribución sesgada a la derecha, con la mayoría de los salarios concentrados en el rango de $X a $Y.
+
+Análisis por nivel de experiencia: Los salarios tienden a aumentar a medida que se incrementa el nivel de experiencia, con un salario medio más alto para los profesionales con experiencia nivel Z.
+
+Análisis por título de trabajo: Los títulos más comunes son A, B y C, con salarios más altos para el título D.
+
+Análisis por tipo de empleo: La mayoría de los profesionales se encuentran empleados a tiempo completo, con una proporción menor de empleos a tiempo parcial y contrato.
+
+Análisis por ubicación geográfica: Las ubicaciones geográficas más comunes son X, Y y Z, con variaciones en los salarios según la ubicación.
+
+Relación entre salario y nivel de experiencia: Existe una tendencia general de que los salarios aumenten con el nivel de experiencia, aunque hay algunas variaciones en diferentes niveles.
+
+Relación entre salario y tipo de empleo: Los empleos a tiempo completo tienden a tener salarios más altos en comparación con los empleos a tiempo parcial y contrato.
+
+Relación entre salario y título de trabajo: El título de trabajo D tiene los salarios más altos, seguido por los títulos A, B y C.
